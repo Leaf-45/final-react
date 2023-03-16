@@ -1,7 +1,7 @@
 {
   "name": "medals-b-react",
   "version": "0.1.0",
-  "homepage": "https://github.com/Leaf-45/final-react",
+  "homepage": "https://Leaf_45.github.io/final-react",
   "private": true,
   "dependencies": {
     "@microsoft/signalr": "^5.0.9",
